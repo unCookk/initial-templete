@@ -1,0 +1,16 @@
+{
+  "search.exclude": {
+    "**/.yarn": true,
+    "**/.pnp.*": true
+  },
+  "eslint.nodePath": ".yarn/sdks",
+  "typescript.tsdk": ".yarn/sdks/typescript/lib",
+  "typescript.enablePromptUseWorkspaceTsdk": true,
+  "prettier.prettierPath": ".yarn/sdks/prettier/index.cjs",
+  "editor.codeActionsOnSave": {
+    "source.fixAll.eslint": "explicit"
+  },
+  "cSpell.words": [
+    //에러는 아니지만 철자가 틀렸다고 나오는 거 추가
+  ]
+}

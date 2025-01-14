@@ -1,0 +1,6 @@
+- Next.js - app router
+- yarn berry(pnp 방식 - node_modules 폴더 없음)
+- lint(저장 시 자동정렬) - titicaca, next lint, tailwind
+- tailwindcss
+- typescript
+- prettier
